@@ -5,7 +5,7 @@ GENERAL
 **************************************/
 a {
  text-decoration: none;
-  color: #0d50cd;
+  color: #6a5acd;
  }
 
 img {
@@ -124,7 +124,7 @@ PAGE:
     border-radius: 20px;
 }
 
-.dog-photo {
+.rabbit-photo {
     display: block;
     max-width: 250px;
     margin: 0 auto 30px;
